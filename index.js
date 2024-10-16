@@ -12,3 +12,4 @@ function calculate(){
     display.value = eval(display.value);
 }
 //sonin l ym da boliun ci neg orood uzde 
+//uzle ho boldgue 
